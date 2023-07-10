@@ -142,7 +142,7 @@ def usage():
 
 	print '---------------------------------------------------'
 
-	print 'USAGE: python zeus.py <url>'
+	print 'USAGE: python hulk.py <url>'
 
 	print 'you can add "safe" after url, to autoshut after dos'
 
