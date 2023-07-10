@@ -1,6 +1,7 @@
+
 ![alt text](https://i.imgur.com/el2O637.png)
 <br>
-Zeus DoS tool ported to Go language from Python. 
+<h2>Zeus DoS tool ported to Go language from Python.</h2>
 Original Python utility by Barry Shteiman http://www.sectorix.com/2012/05/17/hulk-web-server-dos-tool/
 I just ported the code as is quick and dirty. Original functions names are keeped and original logic mostly keeped too.
 
